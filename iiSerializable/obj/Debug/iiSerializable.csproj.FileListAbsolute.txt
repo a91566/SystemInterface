@@ -1,0 +1,6 @@
+d:\文档\visual studio 2017\Projects\SystemInterface\iiSerializable\bin\Debug\iiSerializable.exe.config
+d:\文档\visual studio 2017\Projects\SystemInterface\iiSerializable\bin\Debug\iiSerializable.exe
+d:\文档\visual studio 2017\Projects\SystemInterface\iiSerializable\bin\Debug\iiSerializable.pdb
+d:\文档\visual studio 2017\Projects\SystemInterface\iiSerializable\obj\Debug\iiSerializable.csprojResolveAssemblyReference.cache
+d:\文档\visual studio 2017\Projects\SystemInterface\iiSerializable\obj\Debug\iiSerializable.exe
+d:\文档\visual studio 2017\Projects\SystemInterface\iiSerializable\obj\Debug\iiSerializable.pdb
