@@ -1,0 +1,6 @@
+d:\文档\visual studio 2017\Projects\SystemInterface\iiCompare\bin\Debug\iiCompare.exe.config
+d:\文档\visual studio 2017\Projects\SystemInterface\iiCompare\bin\Debug\iiCompare.exe
+d:\文档\visual studio 2017\Projects\SystemInterface\iiCompare\bin\Debug\iiCompare.pdb
+d:\文档\visual studio 2017\Projects\SystemInterface\iiCompare\obj\Debug\iiCompare.csprojResolveAssemblyReference.cache
+d:\文档\visual studio 2017\Projects\SystemInterface\iiCompare\obj\Debug\iiCompare.exe
+d:\文档\visual studio 2017\Projects\SystemInterface\iiCompare\obj\Debug\iiCompare.pdb

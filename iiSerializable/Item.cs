@@ -8,15 +8,15 @@ using System.Threading.Tasks;
 namespace iiSerializable
 {
 	[Serializable]
-	public class ItemInterface: ISerializable
+	public class Item: ISerializable
 	{
-		public ItemInterface()
+		public Item()
 		{
 			// Empty constructor required to compile.
 		}
 		
 		// The special constructor is used to deserialize values.
-		public ItemInterface(SerializationInfo info, StreamingContext context)
+		public Item(SerializationInfo info, StreamingContext context)
 		{
 			// Reset the property value using the GetValue method.
 			School = (string)info.GetValue("school", typeof(string));

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3D8C67F8-CE2E-4046-ACDA-217376BB8780}</ProjectGuid>
+    <ProjectGuid>{878E20F3-FA57-4D54-AD1E-C78044940821}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>iiSerializable</RootNamespace>
-    <AssemblyName>iiSerializable</AssemblyName>
+    <RootNamespace>iiCompare</RootNamespace>
+    <AssemblyName>iiCompare</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
