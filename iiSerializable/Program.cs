@@ -26,7 +26,7 @@ namespace iiSerializable
 		public static void SerializeItem(string fileName, IFormatter formatter)
 		{
 			// Create an instance of the type and serialize it.
-			MyItemType t = new MyItemType();
+			ItemInterface t = new ItemInterface();
 			t.Name = "Hello World";
 			t.School = "qinghua";
 			t.Age = "18";
@@ -40,7 +40,7 @@ namespace iiSerializable
 		public static void DeserializeItem(string fileName, IFormatter formatter)
 		{
 			FileStream s = new FileStream(fileName, FileMode.Open);
-			MyItemType t = (MyItemType)formatter.Deserialize(s);
+			ItemInterface t = (ItemInterface)formatter.Deserialize(s);
 			Console.WriteLine(t.Name);
 			Console.WriteLine(t.School);
 			Console.WriteLine(t.Age);
